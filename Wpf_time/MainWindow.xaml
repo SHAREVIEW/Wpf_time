@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Wpf_time"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="MainWindow" Height="450" Width="800" WindowStartupLocation="Manual">
     <Grid>
         <TextBox  Name="timeTextBox" FontSize="50" HorizontalAlignment="Left" Height="122" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="782"   />
 

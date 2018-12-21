@@ -33,6 +33,7 @@ namespace Wpf_time
         void timer_Tick(object sender, EventArgs e)
         {
             this.timeTextBox.Text = DateTime.Now.ToString();
+
         }
     }
 }
