@@ -1,6 +1,7 @@
 # Wpf_time
 CLASS -- EVENT -- TIMER
 
+c#中有四种定时器
 
 1：System.Threading.Timer
 
